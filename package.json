@@ -1,0 +1,16 @@
+{
+  "name": "muse-template-angular",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^18.2.0",
+    "typescript": "^5.5.4"
+  }
+}
